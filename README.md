@@ -2,7 +2,7 @@
 
 **Course:** Data Mining — Universidad de la Costa  
 **Professor:** José Escorcia-Gutierrez, Ph.D.  
-**Author:** Sheila Daniela Hernandez Carrillo
+**Author:** Sheila Daniela Hernandez Carrillo - 18038
 
 ## Purpose
 
